@@ -1,0 +1,5 @@
+../Core/Src/freertos_app.c:36:6:vSonarTask	24	static
+../Core/Src/freertos_app.c:68:6:vServoTask	24	static
+../Core/Src/freertos_app.c:94:7:vLcdTask	88	static
+../Core/Src/freertos_app.c:162:6:HAL_TIM_IC_CaptureCallback	16	static
+../Core/Src/freertos_app.c:171:8:MX_FREERTOS_APP_Init	16	static

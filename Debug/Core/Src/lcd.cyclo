@@ -1,0 +1,9 @@
+../Core/Src/lcd.c:8:7:LCD_EnablePulse	1
+../Core/Src/lcd.c:16:6:LCD_WriteHighNibble	1
+../Core/Src/lcd.c:25:6:LCD_WriteLowNibble	1
+../Core/Src/lcd.c:34:6:LCD_Command	1
+../Core/Src/lcd.c:41:6:LCD_Data	1
+../Core/Src/lcd.c:47:6:LCD_Init	1
+../Core/Src/lcd.c:59:6:LCD_WriteString	3
+../Core/Src/lcd.c:74:6:LCD_SetCursor	2
+../Core/Src/lcd.c:85:6:LCD_Clear	1

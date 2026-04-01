@@ -1,0 +1,5 @@
+../Core/Src/ultrasonic.c:18:6:Ultrasonic_Init	16	static
+../Core/Src/ultrasonic.c:34:6:Ultrasonic_Trigger	16	static
+../Core/Src/ultrasonic.c:47:6:Ultrasonic_CaptureCallback	24	static,ignoring_inline_asm
+../Core/Src/ultrasonic.c:98:7:Ultrasonic_GetDistance	4	static
+../Core/Src/ultrasonic.c:103:16:Ultrasonic_GetZone	4	static
