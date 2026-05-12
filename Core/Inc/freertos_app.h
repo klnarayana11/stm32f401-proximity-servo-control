@@ -2,7 +2,7 @@
  * freertos_app.h
  *
  *  Created on: Mar 29, 2026
- *      Author: KODI BALAJI
+ *      Author: KODI Lakshmi Narayana
  */
 
 #ifndef INC_FREERTOS_APP_H_
