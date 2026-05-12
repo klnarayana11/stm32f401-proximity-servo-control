@@ -2,7 +2,8 @@
  * freertos_app.c
  *
  *  Created on: Mar 29, 2026
- *      Author: KODI BALAJI
+ *      Author: KODI Lakshmi Narayana
+
  */
 #include "stdio.h"
 #include "lcd.h"
