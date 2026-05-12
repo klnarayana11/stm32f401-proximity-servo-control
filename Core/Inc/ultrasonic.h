@@ -2,7 +2,7 @@
  * ultrasonic.h
  *
  *  Created on: Mar 28, 2026
- *      Author: KODI BALAJI
+ *      Author: KODI Lakshmi Naarayana
  */
 #ifndef INC_ULTRASONIC_H_
 #define INC_ULTRASONIC_H_
