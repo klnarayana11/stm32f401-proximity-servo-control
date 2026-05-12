@@ -2,7 +2,7 @@
  * lcd.c
  *
  *  Created on: Mar 29, 2026
- *      Author: KODI
+ *      Author: KODI Lakshmi Narayana
  */
 #include "main.h"
  void LCD_EnablePulse(void)
