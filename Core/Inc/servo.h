@@ -2,7 +2,7 @@
  * servo.h
  *
  *  Created on: Mar 28, 2026
- *      Author: KODI BALAJI
+ *      Author: KODI Lakshmi Narayana
  */
 
 #ifndef INC_SERVO_H_
