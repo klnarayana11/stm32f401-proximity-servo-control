@@ -326,7 +326,7 @@ Derivation:
 
 ## 👨‍💻 Author
 
-**Kodi Balaji**  
+**Kodi Lakshmi Narayana**  
 Embedded Systems Developer  
 STM32 | FreeRTOS | ARM Cortex-M4
 
